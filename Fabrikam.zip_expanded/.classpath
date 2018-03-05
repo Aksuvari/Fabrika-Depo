@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Veri_Tabani_Depo/src"/>
+	<classpathentry kind="lib" path="Veri_Tabani_Depo/İmage/jasperreports-6.4.3.jar"/>
+	<classpathentry kind="lib" path="Veri_Tabani_Depo/mysql-connector-java-5.1.43-bin/SNAPSHOT/mysql-connector-java-5.1.43-bin-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/numan.DESKTOP-BO05F21/Documents/Kütühaneler/barbecue-1.5-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/numan.DESKTOP-BO05F21/Documents/Kütühaneler/barcode.jar"/>
+	<classpathentry kind="lib" path="C:/Users/numan.DESKTOP-BO05F21/Documents/Kütühaneler/hibernate-core-4.2.4.final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/numan.DESKTOP-BO05F21/Documents/Kütühaneler/javax.mail-1.3.3.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
